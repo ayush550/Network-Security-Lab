@@ -1,18 +1,32 @@
+Tools to checkout:
 wireshark
 network minor
 ms network monitor -> perprocess traffic
 TCP dump
 
 
-2nd exercise
+Exercises:
 footprint
 google dorking/hacking
 
 
-homework:
-Given a system with admin access, with saved password: not knowign the admin password, how to access the saved password (encrypted with admin's password)
+ARP cache poisining/ flooding
+
+Your system can be connected to any one of the following:
+
+Hub based network: You can see everyone's traffic
+Switch based network: ARP CP/ flooding
+
+Limitation:
+ARP works only in the same network, you cann't see traffic outside your network
 
 
+VPN encrypt transport layer data, VPN solves the problem of hiding which two peers are communicating.
 
+Sniff bluetooth traffic via wireShark
 
+Future Labs:
 wifi cracking -> authentication payload, 
+
+Homework:
+Given a system with admin access, with saved password: not knowign the admin password, how to access the saved password (encrypted with admin's password)
