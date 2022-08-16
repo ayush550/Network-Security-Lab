@@ -1,6 +1,9 @@
 Tools to checkout:
 wireshark
-network minor
+network minor:
+1. Inbound rule: whitelist the network minor from the program
+2. Run as Administrator
+
 ms network monitor -> perprocess traffic
 TCP dump
 
